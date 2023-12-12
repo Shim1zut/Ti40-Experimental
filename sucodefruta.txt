@@ -1,3 +1,5 @@
 suco - versão 1
 
 arquivo editado pelo github
+
+arquivo editado pelo bloco de notas
